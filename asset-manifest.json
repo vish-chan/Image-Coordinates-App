@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Image-Coordinates-App/static/css/main.3aeda0b6.chunk.css",
+    "main.js": "/Image-Coordinates-App/static/js/main.047ef9d9.chunk.js",
+    "main.js.map": "/Image-Coordinates-App/static/js/main.047ef9d9.chunk.js.map",
+    "runtime-main.js": "/Image-Coordinates-App/static/js/runtime-main.0e0b6f10.js",
+    "runtime-main.js.map": "/Image-Coordinates-App/static/js/runtime-main.0e0b6f10.js.map",
+    "static/js/2.784d47ef.chunk.js": "/Image-Coordinates-App/static/js/2.784d47ef.chunk.js",
+    "static/js/2.784d47ef.chunk.js.map": "/Image-Coordinates-App/static/js/2.784d47ef.chunk.js.map",
+    "index.html": "/Image-Coordinates-App/index.html",
+    "precache-manifest.496763dfa07868ed851fa41d71b23e83.js": "/Image-Coordinates-App/precache-manifest.496763dfa07868ed851fa41d71b23e83.js",
+    "service-worker.js": "/Image-Coordinates-App/service-worker.js",
+    "static/css/main.3aeda0b6.chunk.css.map": "/Image-Coordinates-App/static/css/main.3aeda0b6.chunk.css.map",
+    "static/js/2.784d47ef.chunk.js.LICENSE.txt": "/Image-Coordinates-App/static/js/2.784d47ef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e0b6f10.js",
+    "static/js/2.784d47ef.chunk.js",
+    "static/css/main.3aeda0b6.chunk.css",
+    "static/js/main.047ef9d9.chunk.js"
+  ]
+}
