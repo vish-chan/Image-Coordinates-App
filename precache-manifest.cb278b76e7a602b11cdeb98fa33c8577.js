@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d15156a3e369896de42be6c2c14dd6d7",
+    "revision": "ca2a3e55c28b03183b48ff59b515ec56",
     "url": "/Image-Coordinates-App/index.html"
   },
   {

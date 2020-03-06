@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Image-Coordinates-App/precache-manifest.496763dfa07868ed851fa41d71b23e83.js"
+  "/Image-Coordinates-App/precache-manifest.cb278b76e7a602b11cdeb98fa33c8577.js"
 );
 
 self.addEventListener('message', (event) => {
