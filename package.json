@@ -2,6 +2,7 @@
   "name": "image-coordinates-app",
   "version": "1.0.0",
   "private": true,
+  "homepage": "http://vish-chan.github.io/Image-Coordinates-App",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.27",
     "@fortawesome/free-solid-svg-icons": "^5.12.1",
