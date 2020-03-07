@@ -1,12 +1,12 @@
 import React from 'react';
 import './App.css';
-import ImgCoordinate from './components/ImgCoordinates';
+import MainComponent from './components/MainComponent';
 
 
 function App() {
   return (
     <div className="App">
-      <ImgCoordinate />
+      <MainComponent />
     </div>
   );
 }
