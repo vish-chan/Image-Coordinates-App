@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Image-Coordinates-App/static/css/main.3aeda0b6.chunk.css",
-    "main.js": "/Image-Coordinates-App/static/js/main.047ef9d9.chunk.js",
-    "main.js.map": "/Image-Coordinates-App/static/js/main.047ef9d9.chunk.js.map",
+    "main.css": "/Image-Coordinates-App/static/css/main.15dfac4b.chunk.css",
+    "main.js": "/Image-Coordinates-App/static/js/main.a95e0912.chunk.js",
+    "main.js.map": "/Image-Coordinates-App/static/js/main.a95e0912.chunk.js.map",
     "runtime-main.js": "/Image-Coordinates-App/static/js/runtime-main.0e0b6f10.js",
     "runtime-main.js.map": "/Image-Coordinates-App/static/js/runtime-main.0e0b6f10.js.map",
-    "static/js/2.784d47ef.chunk.js": "/Image-Coordinates-App/static/js/2.784d47ef.chunk.js",
-    "static/js/2.784d47ef.chunk.js.map": "/Image-Coordinates-App/static/js/2.784d47ef.chunk.js.map",
+    "static/js/2.db5b8e3c.chunk.js": "/Image-Coordinates-App/static/js/2.db5b8e3c.chunk.js",
+    "static/js/2.db5b8e3c.chunk.js.map": "/Image-Coordinates-App/static/js/2.db5b8e3c.chunk.js.map",
     "index.html": "/Image-Coordinates-App/index.html",
-    "precache-manifest.cb278b76e7a602b11cdeb98fa33c8577.js": "/Image-Coordinates-App/precache-manifest.cb278b76e7a602b11cdeb98fa33c8577.js",
+    "precache-manifest.ce23885b4d561fe4211ba1c74f8e69a1.js": "/Image-Coordinates-App/precache-manifest.ce23885b4d561fe4211ba1c74f8e69a1.js",
     "service-worker.js": "/Image-Coordinates-App/service-worker.js",
-    "static/css/main.3aeda0b6.chunk.css.map": "/Image-Coordinates-App/static/css/main.3aeda0b6.chunk.css.map",
-    "static/js/2.784d47ef.chunk.js.LICENSE.txt": "/Image-Coordinates-App/static/js/2.784d47ef.chunk.js.LICENSE.txt"
+    "static/css/main.15dfac4b.chunk.css.map": "/Image-Coordinates-App/static/css/main.15dfac4b.chunk.css.map",
+    "static/js/2.db5b8e3c.chunk.js.LICENSE.txt": "/Image-Coordinates-App/static/js/2.db5b8e3c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0e0b6f10.js",
-    "static/js/2.784d47ef.chunk.js",
-    "static/css/main.3aeda0b6.chunk.css",
-    "static/js/main.047ef9d9.chunk.js"
+    "static/js/2.db5b8e3c.chunk.js",
+    "static/css/main.15dfac4b.chunk.css",
+    "static/js/main.a95e0912.chunk.js"
   ]
 }
